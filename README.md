@@ -1,2 +1,13 @@
 # dotfiles
-Well, dotfiles.
+
+```
+pip install mackup
+```
+
+```
+mackup backup
+```
+
+```
+mackup restore
+```
